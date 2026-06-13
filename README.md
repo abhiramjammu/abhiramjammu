@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=250&section=header&text=Hi,%20I'm%20Abhiram!%20%F0%9F%8E%AC&fontSize=55&fontAlignY=38&desc=Video%20Editor%20and%20Creative%20Professional&descAlignY=55&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff00cc,333399&height=250&section=header&text=Hi,%20I'm%20Abhiram!%20%F0%9F%8E%AC&fontSize=55&fontAlignY=38&desc=Video%20Editor%20and%20Creative%20Professional&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 *Bringing stories to life through dynamic video editing and creative design.*
 
