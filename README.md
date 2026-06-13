@@ -2,9 +2,9 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff00cc,333399&height=250&section=header&text=Hi,%20I'm%20Abhiram!%20%F0%9F%8E%AC&fontSize=55&fontAlignY=38&desc=Video%20Editor%20and%20Creative%20Professional&descAlignY=55&descAlign=50&fontColor=ffffff)
 
-*Bringing stories to life through dynamic video editing and creative design.*
+<br/>
 
-[**✨ View My Portfolio ✨**](https://abhiramjammu.github.io/portifolio./)
+[![View My Portfolio](https://img.shields.io/badge/✨_View_My_Portfolio_✨-ff00cc?style=for-the-badge)](https://abhiramjammu.github.io/portifolio./)
 
 <br/>
 
